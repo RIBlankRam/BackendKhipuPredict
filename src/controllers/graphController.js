@@ -3,7 +3,7 @@ import { buildGraph } from "../algorithms/graphBuilder.js";
 import { bellmanFord } from "../algorithms/bellmanFord.js";
 import { dfs } from "../algorithms/dfs.js";
 import { bfs } from "../algorithms/bfs.js";
-import KhipuModel from "../models/KhipuModel.js";
+import KhipuModel from "../models/khipuModel.js";
 
 export const GraphController = {
     
