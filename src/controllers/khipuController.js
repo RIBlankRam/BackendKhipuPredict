@@ -1,4 +1,4 @@
-import { KhipuModel } from "../Models/khipuModel.js";
+import { KhipuModel } from "../models/khipuModel.js";
 
 const REAL_MUSEUMS = [
   "American Museum of Natural History, NY",
